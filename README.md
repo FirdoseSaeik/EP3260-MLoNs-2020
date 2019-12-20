@@ -1,1 +1,1 @@
-# EP3260-MLoNs-2020
+This repository include HW and CAs of Ph.D. course EP3260 Fundamentals of Machine Learning Over Networks, hosted by KTH Royal Institute of Technology. You can visit the course website to see more details and course materials, including slides and recorded lectures.
